@@ -45,7 +45,7 @@ TouchSwitch/
 ---
 
 
-## Setup inicial (esto ya está hecho, solo por si las dudas)
+## Setup inicial 
 
 ```bash
 # Crea y activa el venv
